@@ -1,1 +1,1 @@
-# jumbotron.gethub.io
+# jumbotron.github.io
